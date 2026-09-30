@@ -1,4 +1,5 @@
 # دیپلوی چندمسیره‌ی 3X-UI روی Orbit / Flux
+کد نویسی شده توسط تیم پمپ نت :
 
 این پروژه پنل رسمی [3X-UI](https://github.com/MHSanaei/3x-ui) (پنل مدیریت Xray-core)
 رو داخل یک کانتینر روی [Orbit](https://orbit.runonflux.com)، پلتفرم دیپلوی Flux، اجرا می‌کنه.
